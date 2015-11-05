@@ -1,5 +1,3 @@
-new file 6
- new changes
-
+new file 7
 
 changes after the latest pull
